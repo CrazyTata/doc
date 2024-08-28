@@ -1,3 +1,4 @@
+## go 语言中使用SSE流式输出内容
 ```go
 package chat
 
